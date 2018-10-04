@@ -3,7 +3,7 @@ title: "Over Lambda Lab Software"
 posted: 2014-01-28
 ---
 
-Lambda Lab Software is opgericht in 2014 door [Jaap ter Woerds MSc](https://www.linkedin.com/profile/view?id=28880331). Door jarenlange ervaring in software consultancy en product development organisaties, in project voor zowel semi overheid als startups, weet hij als geen ander dat het maken van successvolle software in de eerste plaats mensenwerk is. 
+Lambda Lab Software is opgericht in 2014 door [Jaap ter Woerds MSc](https://www.linkedin.com/in/jaapterwoerds/). Door jarenlange ervaring in software consultancy en product development organisaties, in project voor zowel semi overheid als startups, weet hij als geen ander dat het maken van successvolle software in de eerste plaats mensenwerk is. 
 
 De kernwaarden waarop de bedrijfsfilosofie van Lambda Lab Software rust zijn:  
 
