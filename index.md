@@ -1,5 +1,5 @@
 ---
-title: "Welkom bij Lambda Lab Software"
+title: "Welkom bij Lambda Lab Software!"
 posted: 2014-01-14
 ---
 
@@ -13,4 +13,3 @@ Daarnaast heeft Lambda Lab ruime ervaring in het opzetten en verbeteren van ontw
 
 ## Neem contact op!
 Neem vrijblijvend <a href="/contact.html">contact</a> op voor meer informatie, of neem een kijkje op ons <a href="/blog.html">blog</a> om te kijken welke specialistische kennis in uw development organisatie ingezet kan worden.
-
