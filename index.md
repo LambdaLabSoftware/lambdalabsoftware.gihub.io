@@ -3,7 +3,7 @@ title: "Welkom bij Lambda Lab Software!"
 posted: 2014-01-14
 ---
 
-Lambda Lab Software is het bedrijf van [Jaap ter Woerds MSc](https://www.linkedin.com/profile/view?id=28880331) gespecialiseerd in software ontwikkeling met Scala en Java. Per direct ben ik beschikbaar voor nieuwe projecten.
+Lambda Lab Software is het bedrijf van [Jaap ter Woerds MSc](https://www.linkedin.com/profile/view?id=28880331) gespecialiseerd in software ontwikkeling met Scala en Java. Per direct ben ik beschikbaar voor nieuwe projecten..
 
 ## Wat doen wij?
 
