@@ -3,8 +3,16 @@ layout: page
 title: About
 permalink: /about
 ---
-More than a decade of experience building tomorrow's software.
 
-For more information:
-[github-organization]: https://github.com/LambdaLabSoftware
+Lambda Lab Software specializes in building rock solid software using types functional programming.
+
+With more than a decade of experience building tomorrow's software, we are trusted by companies big and small to help modernize and improve software engineering practices. Examples of our clients:
+
+ - Randstad groep
+ - DHL Parcel
+ - Wehkamp
+ - WeCoThi
+
+We take pride in building software that solves business problems today and is able to be modified and taken into production fearlessly.
+
 
