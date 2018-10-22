@@ -1,0 +1,3 @@
+I'm not a big fan of Microsoft consumer products, but they do sponsor much of the research which in my opinion will shape the future of programming as we know it. One of the recent examples of what came out of this research is Koka. Daan Leijen, author of the excellent Parsec parser combinator library in Haskell, is the main developer of Koka and published research about this langauge and it's unique features.
+
+
