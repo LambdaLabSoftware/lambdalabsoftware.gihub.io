@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: λ Lambda Lab Software
 email: info@lambdalab.nl
+kvk: 61524948
 description: >- # this means to ignore newlines until "baseurl:"
   Software development for the 21st century
 baseurl: "" # the subpath of your site, e.g. /blog
