@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Lambda Lab Software specializes in building rock solid software using types functional programming.
+Lambda Lab Software specializes in building rock solid software using typed functional programming.
 
 With more than a decade of experience building tomorrow's software, we are trusted by companies big and small to help modernize and improve software engineering practices. Examples of our clients:
 
@@ -14,5 +14,3 @@ With more than a decade of experience building tomorrow's software, we are trust
  - WeCoThi
 
 We take pride in building software that solves business problems today and is able to be modified and taken into production fearlessly.
-
-
